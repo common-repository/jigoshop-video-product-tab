@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jigoshop Video Product Tab\n"
+"POT-Creation-Date: 2013-04-07 00:33+0100\n"
+"PO-Revision-Date: 2013-04-07 00:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: Seb's Studio <sebastien@sebs-studio.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:93
+msgid "Support"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:94
+msgid "More Jigoshop Extensions"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:108
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:244
+msgid "Video"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:181
+msgid "Video Title"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:182
+msgid "Enter your title here."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:190
+msgid "Embed Code"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:191
+msgid "Place your video embed code here."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-video-product-tab/jigoshop-video-product-tab.php:281
+msgid ""
+"Jigoshop Videos Product Tab requires <a href=\"http://www.jigoshop.com/\" "
+"target=\"_blank\">Jigoshop</a> to be activated in order to work. Please "
+"install and activate <a href=\""
+msgstr ""
